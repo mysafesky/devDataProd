@@ -1,7 +1,8 @@
-CarPurchasingHelper
+Car Purchasing Helper
 ========================================================
 author: Zhengcheng Gu
 date: Nov. 25, 2014
+[Link] http://mysafesky.shinyapps.io/devDataProd/
 
 Car Purchasing Helper
 ========================================================
@@ -33,10 +34,11 @@ App UI Preview
 
 ![Screen Capture of App UI](app.jpg)
 
+
 Core Sorting Function
 ========================================================
 
-The core of this app is sorting, here is a example of sorting and only display first 2 rows. The result display is a little bit messy here because the list of width
+The core of this app is sorting, here is a example of sorting and only display first 2 rows. The result display is a little bit messy here because of the limit of width
 
 ```r
 attach(mtcars)
